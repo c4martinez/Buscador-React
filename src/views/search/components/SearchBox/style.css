@@ -7,4 +7,10 @@
 .search-buttons{
     display: flex;
     flex-direction: row;
+    /* background-color: rgb(138, 102, 102); */
+    border-radius: 5px;
+}
+.search-box-input{
+    cursor: pointer;
+    border-radius: 5px;
 }
